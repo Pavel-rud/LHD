@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bc84c4d953e26ef4b94b80d433893f08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: drift_arena_terrain
+    100004: EntranceBlock
+    100006: house_big
+    100008: house_small
+    400000: //RootNode
+    400002: drift_arena_terrain
+    400004: EntranceBlock
+    400006: house_big
+    400008: house_small
+    2300000: drift_arena_terrain
+    2300002: EntranceBlock
+    2300004: house_big
+    2300006: house_small
+    3300000: drift_arena_terrain
+    3300002: EntranceBlock
+    3300004: house_big
+    3300006: house_small
+    4300000: house_small
+    4300002: house_big
+    4300004: drift_arena_terrain
+    4300006: EntranceBlock
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_asphalt
+    second: {fileID: 2100000, guid: 8e7843ecd3cf46349bb4059e1fadbc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_entourage
+    second: {fileID: 2100000, guid: 9bf56459b02c3af44998b4164492b2d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_road_edge
+    second: {fileID: 2100000, guid: c439abf04c49f064b923ea1f7222f222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_road_onesided
+    second: {fileID: 2100000, guid: 075152d9780349c4ba0aa4c843ad6a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_road_threeways
+    second: {fileID: 2100000, guid: 50870dcc647143044b1b926155426ffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_road_toasphalt
+    second: {fileID: 2100000, guid: 637d8f05fc2d7014aaacf3890d39f32a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_sand_a
+    second: {fileID: 2100000, guid: 7678db6a6d20ee24798f54008d8f99b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_sand_b
+    second: {fileID: 2100000, guid: 53a7b5e1522e7eb4599e5e9c72afaa8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_sand_b2a
+    second: {fileID: 2100000, guid: 53d82dd6c6727d34f89aa7f43d5426ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_sand_top
+    second: {fileID: 2100000, guid: f7f4c0cdb8ff9a7429fbb5274ec45da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_tree_palm_a
+    second: {fileID: 2100000, guid: e707311affec3284894aa699b2e43727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_tree_palm_b
+    second: {fileID: 2100000, guid: 8c1e2af21ac620c47a954ad5d8780b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_wall_a
+    second: {fileID: 2100000, guid: 977119c3d8712c043ba020e6ebe01bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_window
+    second: {fileID: 2100000, guid: 4a43e9cc3e905d542bd797de61449a2e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
